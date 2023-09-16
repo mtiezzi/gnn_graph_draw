@@ -3,7 +3,7 @@
 This repository contains the implementation for the paper [**Graph Neural Networks for Graph
 Drawing**](https://ieeexplore.ieee.org/document/9810169), accepted for publication in the IEEE Transactions on Neural
 Networks and Learning Systems.
-[Techincal Report](https://arxiv.org/abs/2109.10061)
+[Technical Report](https://arxiv.org/abs/2109.10061)
 
 *Authors:*  [Matteo Tiezzi](https://mtiezzi.github.io/), Gabriele Ciravegna and Marco Gori.
 
