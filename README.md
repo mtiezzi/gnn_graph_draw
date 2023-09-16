@@ -13,8 +13,8 @@ Make sure to have Python dependencies by running:
 pip install -r requirements.txt
 ```
 
-We tested the code with PyTorch 1.10. Follow the [instructions](https://pytorch.org/get-started/) on the official
-website for further details.
+We tested the code with PyTorch 1.10 and Deep Graph Library (DGL). Follow the [instructions](https://pytorch.org/get-started/) on the official
+websites for further details.
 
 
 
