@@ -55,20 +55,20 @@ Then, launch the `crossing_learning_mlp`  script to train a Neural Aesthete.
 The model will be saved in the `saved_models` folder.
 
 
-HOW TO RUN AN EXPERIMENT: standard Graph Drawing with Neural Aesthete
+Standard Graph Drawing with Neural Aesthete
 =====================================================================
 
 Use the `graph_draw_main.py` script to draw graphs (please refer to the Arguments and the paper for further details)
 using standard SGD and the Neural Aesthete.
 
-HOW TO RUN AN EXPERIMENT: Graph Neural Networks for Graph Drawing
+Graph Neural Networks for Graph Drawing
 =================================================================
 
 Use the `graph_neural_drawers.py` script to draw graphs (please refer to the Arguments and the paper for further
 details ) using GNNs and the Neural Aesthete.
 
 
-HOW TO Draw graphs with Graph Drawing packages
+Draw graphs with Graph Drawing packages
 ==============================================
 
 Please install the followig dependendencies before running the `gd_packages.py` script:
