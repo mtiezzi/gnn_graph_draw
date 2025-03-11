@@ -1,4 +1,9 @@
+
 # **Graph Neural Networks for Graph Drawing**
+
+
+![image](https://github.com/user-attachments/assets/362bf24e-2a14-4f07-9fb7-25f892720b62)
+
 
 This repository contains the implementation for the paper [**Graph Neural Networks for Graph
 Drawing**](https://ieeexplore.ieee.org/document/9810169), accepted for publication in the IEEE Transactions on Neural
